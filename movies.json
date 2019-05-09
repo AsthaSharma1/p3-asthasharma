@@ -69,4 +69,47 @@
             "dislikes": 101,
             "posterindex": 0
       }
+         {
+            "title": "Life of Pi",
+            "iscore": 7.9,
+            "rating": "PG",
+            "runtime": 127,
+            "released": [2012, 11, 21],
+            "country": "USA",
+            "posters": ["img/lifeofpi.jpg", "img/lifeofpi2.jpg", "img/lifeofpi3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0454876",
+            "website": "https://www.foxmovies.com/movies/life-of-pi",
+            "likes": 845,
+            "dislikes": 102,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Gone Girl",
+            "iscore": 8.1,
+            "rating": "R",
+            "runtime": 149,
+            "released": [2014, 10, 03],
+            "country": "USA",
+            "posters": ["img/gonegirl.jpg", "img/gonegirl2.jpg", "img/gonegirl3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt2267998/",
+            "website": "https://www.boxofficemojo.com/movies/?id=gonegirl.htm",
+            "likes": 855,
+            "dislikes": 142,
+            "posterindex": 0
+      },
+      {
+            "title": "The Grand Budapest Hotel",
+            "iscore": 8.1,
+            "rating": "R",
+            "runtime": 99,
+            "released": [2014, 03, 28],
+            "country": "USA",
+            "posters": ["img/grand.jpg", "img/grand2.jpg", "img/grand3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt2278388/",
+            "website": "https://www.foxsearchlight.com/thegrandbudapesthotel/",
+            "likes": 835,
+            "dislikes": 132,
+            "posterindex": 0
+      }
 ]
