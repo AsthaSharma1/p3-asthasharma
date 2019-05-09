@@ -31,14 +31,14 @@ const vue_app = new Vue({
             })
       },
       data: {
+	    title: "IMDB + Astha's Top 8 Movies", 
+            owner: 'Astha',
+            github: 'https://github.com/AsthaSharma1/p3-asthasharma',
             // This holds your movies.json data.
             movies: []
 
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
-            owner: 'Astha'
-            title: "IMDB + Astha's Top 8 Movies", 
-            github: 'https://github.com/AsthaSharma1/p3-asthasharma',
-      },
+           
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
       }
